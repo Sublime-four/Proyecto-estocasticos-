@@ -1,0 +1,146 @@
+[
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439260.wav",
+        "ruta": "recordings\\cancion_1742439260.wav",
+        "timestamp": 1742439260
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439267.wav",
+        "ruta": "recordings\\cancion_1742439267.wav",
+        "timestamp": 1742439267
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439274.wav",
+        "ruta": "recordings\\cancion_1742439274.wav",
+        "timestamp": 1742439274
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439281.wav",
+        "ruta": "recordings\\cancion_1742439281.wav",
+        "timestamp": 1742439281
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439289.wav",
+        "ruta": "recordings\\cancion_1742439289.wav",
+        "timestamp": 1742439289
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439296.wav",
+        "ruta": "recordings\\cancion_1742439296.wav",
+        "timestamp": 1742439296
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439303.wav",
+        "ruta": "recordings\\cancion_1742439303.wav",
+        "timestamp": 1742439303
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439310.wav",
+        "ruta": "recordings\\cancion_1742439310.wav",
+        "timestamp": 1742439310
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439318.wav",
+        "ruta": "recordings\\cancion_1742439318.wav",
+        "timestamp": 1742439318
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439325.wav",
+        "ruta": "recordings\\cancion_1742439325.wav",
+        "timestamp": 1742439325
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439332.wav",
+        "ruta": "recordings\\cancion_1742439332.wav",
+        "timestamp": 1742439332
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439339.wav",
+        "ruta": "recordings\\cancion_1742439339.wav",
+        "timestamp": 1742439339
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439347.wav",
+        "ruta": "recordings\\cancion_1742439347.wav",
+        "timestamp": 1742439347
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439354.wav",
+        "ruta": "recordings\\cancion_1742439354.wav",
+        "timestamp": 1742439354
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439361.wav",
+        "ruta": "recordings\\cancion_1742439361.wav",
+        "timestamp": 1742439361
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439368.wav",
+        "ruta": "recordings\\cancion_1742439368.wav",
+        "timestamp": 1742439368
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439376.wav",
+        "ruta": "recordings\\cancion_1742439376.wav",
+        "timestamp": 1742439376
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439383.wav",
+        "ruta": "recordings\\cancion_1742439383.wav",
+        "timestamp": 1742439383
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439390.wav",
+        "ruta": "recordings\\cancion_1742439390.wav",
+        "timestamp": 1742439390
+    },
+    {
+        "tipo": "cancion",
+        "archivo": "cancion_1742439397.wav",
+        "ruta": "recordings\\cancion_1742439397.wav",
+        "timestamp": 1742439397
+    },
+    {
+        "tipo": "ruido_blanco",
+        "archivo": "ruido_blanco_1742439516.wav",
+        "ruta": "recordings\\ruido_blanco_1742439516.wav",
+        "timestamp": 1742439516
+    },
+    {
+        "tipo": "ruido_blanco",
+        "archivo": "ruido_blanco_1742439523.wav",
+        "ruta": "recordings\\ruido_blanco_1742439523.wav",
+        "timestamp": 1742439523
+    },
+    {
+        "tipo": "ruido_blanco",
+        "archivo": "ruido_blanco_1742439530.wav",
+        "ruta": "recordings\\ruido_blanco_1742439530.wav",
+        "timestamp": 1742439530
+    },
+    {
+        "tipo": "ruido_blanco",
+        "archivo": "ruido_blanco_1742439538.wav",
+        "ruta": "recordings\\ruido_blanco_1742439538.wav",
+        "timestamp": 1742439538
+    }
+]

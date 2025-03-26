@@ -1,0 +1,20 @@
+{
+    "cancion": {
+        "autocorrelacion_media": 0.31143864358657947,
+        "autocovarianza_media": 0.3114386336316865,
+        "espectro_media": 0.38795281118600994,
+        "curtosis_media": 5.440371930599213,
+        "skewness_media": 0.013857806008309126,
+        "snr_media": 1.4625560851300179e-06,
+        "rango_dinamico_media": 0.20669708251953126
+    },
+    "ruido_blanco": {
+        "autocorrelacion_media": 0.45682597448543655,
+        "autocovarianza_media": 0.45682597448543655,
+        "espectro_media": 0.44164887018718124,
+        "curtosis_media": 0.4614441394805908,
+        "skewness_media": 0.005377794266678393,
+        "snr_media": 1.9414474650147895e-07,
+        "rango_dinamico_media": 0.15876007080078125
+    }
+}
